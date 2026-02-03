@@ -1,0 +1,10 @@
+{
+	"id": "neuro-scan-graph",
+	"name": "Neuro-Scan Graph Builder",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Menghubungkan catatan medis secara otomatis menggunakan AI Gemini.",
+	"author": "Gw Sendiri",
+	"authorUrl": "https://github.com/",
+	"isDesktopOnly": false
+}
